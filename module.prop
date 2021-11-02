@@ -1,0 +1,6 @@
+id=XZ1c_thermal
+name=XZ1 Compact Thermal Mod
+version=A11
+versionCode=1
+author=ryujinxed
+description=Replaces the thermal engine with a less aggressive throttling threshold
